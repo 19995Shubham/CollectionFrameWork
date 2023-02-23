@@ -1,0 +1,10 @@
+Not follow order
+No duplicate key allowed. We can store the value but this will give only latest key value.
+Value can be multiple null.
+Follow key and value.
+only one null value allowed.
+If element is not stored and fetch the value then it will return null.
+HasMap is not synchronised or not thread safe.
+(HasTable is synchronised)
+In hashmap we cannot iterate directly we have to use another method to same we can not use for loop
+Iterator<> it = referenceVariable.keyset().iterator().   here we use keyset() method to iterate the key.

@@ -1,0 +1,32 @@
+addAll method use in combine two arraylist
+ArrayList <String> ar1 = new Arraylist()
+ar1.add("Shubham");
+ar1.add("tripathi");
+ar1.add("InterraIt");
+
+ArrayList <String> ar2 = new ArrayList<>();
+ar2.add(3);
+ar2.add("position");
+
+System.out.println(ar1.addAll(ar2);
+now two arraylist ar1 and ar2 combined but remember there store type should be same if object the another one
+is also object if String then string line no 2 and 7.
+
+Clone method ar.clone(); to clone the same arraylist
+
+Contains method to verify does the arraylist having that vlue in the the list or not. it will give bollean
+value with true or false.
+ar.contians(100);
+
+indexOf() method give the index number of the Arraylist and if the variable is not there then it will return the -1
+if the indexOf() are used with comparable operator then it will give the boolean result similar to contains().
+
+lastindexOf () give the variable position or the index number
+
+removeIf () is boolean statement and can be used in conditional if else see the removeIf () program
+
+sublist() is used to find the element between the element 1,2,3,4,5,5  ar.sublist(2,5); it will give element
+345
+
+
+

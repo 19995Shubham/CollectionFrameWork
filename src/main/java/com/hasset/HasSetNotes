@@ -1,0 +1,10 @@
+Duplicate not allowed
+Insertion order not present
+Hascode . searching of element is very fast
+Hetrogenius data will be supported
+Null allowed
+HasSet hs = new HasSet();
+Initial size is 16;
+Load factor/ FIll ration 0.75 / create new object when reached 75% of the old object if new element added
+
+HashSet dont have any own method
